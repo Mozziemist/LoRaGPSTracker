@@ -1,4 +1,3 @@
-/* Marcial Mendoza */
 #include <TinyGPS++.h>
 #include <softSerial.h>
 #include <Wire.h>  

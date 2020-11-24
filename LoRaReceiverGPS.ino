@@ -1,4 +1,3 @@
-/* Marcial Mendoza */
 /* Heltec Automation Receive communication test example
  *
  * Function:
